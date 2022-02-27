@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar.bg-dark {
+    background-color: #000000!important;
+    height: 10vh;
+}
+
+.burger{
+    height: 125vh;
+    margin-top: -35vh;
+    width: max-content;
+    width: 100%;
+    object-fit: cover;
+
+}
+
+.headcontain{
+    color: aliceblue;
+    width: 100%;
+    height: 100vh;
+    padding-bottom: 60px;
+    object-fit: cover;
+}
+
+.btn-lg{
+    margin-left: 12%;
+    margin-left: 10vw;
+}
+
+.card{
+    border: 0px !important;
+}
+
+.icons{
+    padding: 27px;
+}
+
+.head-title{
+    font-family: 'Love Ya Like A Sister', cursive; 
+    font-size:33px;
+    margin-left: 6%;
+}
+
+.icon-border{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(95, 95, 204, 0.24);
+    border: 1px solid black;
+    border-radius: 50%;
+    align-self: center;
+    margin-top: 10px;
+}
+
+.card-title{
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 120px;
+    margin-top: 18%;
+}
+h2{
+    text-align: center;
+    font-size: 55px;
+}
+.card-group {
+    display: flex;
+    justify-content: space-around;
+}
+
+.kol{
+    background-color: blueviolet;
+}
+.khras{
+    border: 2px solid rgb(172, 174, 55);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer{
+    width: 100%;
+    height: 100%;
+    line-height: 150%;
+    border: 1px solid red;
+    background-color: #000000;
+    text-align: end;
+    color: aliceblue;
+}
+
+
+
+
